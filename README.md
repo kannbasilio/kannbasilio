@@ -1,4 +1,4 @@
-# Hi there! I’m Kat Basilio. 👋
+# Hi there! I’m Katie Ann Basilio. 👋
 
 ***About me:*** 
 - 📚 I’m currently a college freshman @ Wesleyan University studying computer science and music
