@@ -1,7 +1,7 @@
 # Hi there! I’m Kat Basilio. 👋
 
 ***About me:*** 
-- 📚 I’m currently a college freshman @ Wesleyan University studying computer science and music.
+- 📚 I’m currently a college freshman @ Wesleyan University studying computer science and music
 - 💻 I'm passionate about forging connections between technology and the arts 
 - 🌱 I'm learning Python and building some games (*check out my repositories*) 
 
